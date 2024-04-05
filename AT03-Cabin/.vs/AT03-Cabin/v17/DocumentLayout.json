@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|c:\\users\\spuzn\\desktop\\tafe\\unity\\at03 github\\at03-cabin\\at03-cabin\\assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\TextToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TextToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextToggle.cs",
+              "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\TextToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextToggle.cs",
+              "ToolTip": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\TextToggle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextToggle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:24:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAtwCgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:42:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationWaypoint.cs",
+              "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\NavigationWaypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavigationWaypoint.cs",
+              "ToolTip": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\NavigationWaypoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavigationWaypoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:29:06.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction.cs",
+              "ToolTip": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interaction.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:23:58.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
