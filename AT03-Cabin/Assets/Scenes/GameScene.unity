@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 80764847}
   - component: {fileID: 80764849}
   - component: {fileID: 80764848}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Tooltip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -901,7 +901,7 @@ GameObject:
   - component: {fileID: 218609885}
   - component: {fileID: 218609884}
   - component: {fileID: 218609888}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: MainDoorToolTip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6190,7 +6190,7 @@ GameObject:
   m_Component:
   - component: {fileID: 952762941}
   - component: {fileID: 952762942}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22583,7 +22583,7 @@ GameObject:
   - component: {fileID: 1483875810}
   - component: {fileID: 1483875812}
   - component: {fileID: 1483875811}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ToolTipImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
