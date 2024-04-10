@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\LocationMovementMenu.cs" />
     <Compile Include="Assets\Scripts\Interaction.cs" />
     <Compile Include="Assets\Scripts\MovementButton.cs" />
+    <Compile Include="Assets\Scripts\IntroText.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\NavigationWaypoint.cs" />
     <Compile Include="Assets\Scripts\DigitalTooltip.cs" />

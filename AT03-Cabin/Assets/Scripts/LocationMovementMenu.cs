@@ -8,7 +8,7 @@ public class LocationMovementMenu : MonoBehaviour
     [SerializeField] private GameObject menu;
 
     private MouseLook mouseLook;
-    private bool cursorActive
+    public bool cursorActive
     {
         set
         {
