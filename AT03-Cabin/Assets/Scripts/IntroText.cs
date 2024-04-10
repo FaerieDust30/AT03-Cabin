@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Faye Butler - 10/04/2024 
+
 public class IntroText : MonoBehaviour
 {
+    [Tooltip("The background image displayed behind the text.")]
     [SerializeField] private GameObject introTextImage;
+    [Tooltip("The text displayed for the intro text.")]
     [SerializeField] private GameObject introText;
-    [SerializeField] private GameObject cube;
+
     private LocationMovementMenu moveMenu;
     private MouseLook mouseLook;
 
@@ -29,7 +33,6 @@ public class IntroText : MonoBehaviour
 
     public void CloseIntroText()
     {
-        cube.SetActive(false);
         introTextImage.SetActive(false);
         introText = introTextImage;
         mouseLook.MouseLookEnabled = true;
@@ -38,7 +41,6 @@ public class IntroText : MonoBehaviour
 
     public void OpenIntroText()
     {
-        cube.SetActive(true);
         introTextImage.SetActive(true);
         introText.SetActive(true);
         mouseLook.MouseLookEnabled = false;
