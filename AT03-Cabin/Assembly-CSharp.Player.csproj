@@ -60,7 +60,9 @@
     <Analyzer Include="C:\Program Files\Unity 2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\LocationMovementMenu.cs" />
     <Compile Include="Assets\Scripts\Interaction.cs" />
+    <Compile Include="Assets\Scripts\MovementButton.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\NavigationWaypoint.cs" />
     <Compile Include="Assets\Scripts\DigitalTooltip.cs" />
