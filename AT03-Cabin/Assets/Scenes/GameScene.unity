@@ -1559,11 +1559,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1804104054}
-  - {fileID: 2032218440}
-  - {fileID: 1227881533}
   - {fileID: 801916698}
   - {fileID: 1427952748}
   - {fileID: 1649484840}
+  - {fileID: 2032218440}
+  - {fileID: 1227881533}
   m_Father: {fileID: 1127647439}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
@@ -4650,12 +4650,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beefca374dd387440ad67c9ff29481c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainDoor: {fileID: 716865406}
-  solarPanels: {fileID: 1995256167}
-  kitchen: {fileID: 1469304401}
-  fireplace: {fileID: 2117195678}
-  bathroom: {fileID: 940388118}
-  bedroom: {fileID: 832646866}
+  waypoint:
+  - {fileID: 716865406}
+  - {fileID: 832646866}
+  - {fileID: 940388118}
+  - {fileID: 2117195678}
+  - {fileID: 1995256167}
+  - {fileID: 1469304401}
 --- !u!82 &537446717
 AudioSource:
   m_ObjectHideFlags: 0
@@ -6241,12 +6242,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToBedroom
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -19432,12 +19433,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToKitchen
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -24489,12 +24490,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToBathroom
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -25534,8 +25535,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1512555697}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.06, y: -0.32400513, z: 0.2}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36011,12 +36012,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToFireplace
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -36144,8 +36145,8 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToMainDoor
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -37933,12 +37934,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 537446716}
         m_TargetAssemblyTypeName: MovementButton, Assembly-CSharp
-        m_MethodName: MoveToSolarPanels
-        m_Mode: 1
+        m_MethodName: MoveToWaypoint
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -38294,7 +38295,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -264.47388, y: 151.257}
+  m_AnchoredPosition: {x: -264.9867, y: 151.257}
   m_SizeDelta: {x: 2, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2117195673
