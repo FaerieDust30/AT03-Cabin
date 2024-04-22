@@ -1,47 +1,48 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.UIElements;
 
-// Faye Butler - 10/04/2024
+// Faye Butler - 22/04/2024
 
 public class MovementButton : MonoBehaviour
 {
-    [SerializeField] private Transform mainDoor;
-    [SerializeField] private Transform solarPanels;
-    [SerializeField] private Transform kitchen;
-    [SerializeField] private Transform fireplace;
-    [SerializeField] private Transform bathroom;
-    [SerializeField] private Transform bedroom;
+
+    [SerializeField] private Transform[] waypoint;
 
     // Update is called once per frame
     void Update()
     {
-        
+      if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            MoveToWaypoint(0);
+        }
+      if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            MoveToWaypoint(1);
+        }
+      if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            MoveToWaypoint(2);
+        }
+      if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            MoveToWaypoint(3);
+        }
+      if (Input.GetKeyDown(KeyCode.Alpha5))
+        {
+            MoveToWaypoint(4);
+        }
+      if (Input.GetKeyDown(KeyCode.Alpha6))
+        {
+            MoveToWaypoint(5);
+        }
+
     }
 
-    public void MoveToMainDoor()
+    public void MoveToWaypoint(int place)
     {
-        transform.position = mainDoor.position;
+       waypoint[place].GetComponent<NavigationWaypoint>().Activate();
     }
-    public void MoveToSolarPanels()
-    {
-        transform.position = solarPanels.position;
-    }
-    public void MoveToKitchen()
-    {
-        transform.position = kitchen.position;
-    }
-    public void MoveToFireplace()
-    {
-        transform.position = fireplace.position;
-    }
-    public void MoveToBathroom()
-    {
-        transform.position = bathroom.position;
-    }
-    public void MoveToBedroom()
-    {
-        transform.position = bedroom.position;
-    }
-
 }

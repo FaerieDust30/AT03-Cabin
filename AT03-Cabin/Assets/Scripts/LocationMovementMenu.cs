@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-// Faye Butler - 10/04/2024
+// Faye Butler - 22/04/2024
 
 public class LocationMovementMenu : MonoBehaviour
 {
     [Tooltip("The image containing the navigation buttons.")]
-    [SerializeField] private GameObject menu;
+    [SerializeField] public GameObject menu;
 
     private MouseLook mouseLook;
     public bool cursorActive
