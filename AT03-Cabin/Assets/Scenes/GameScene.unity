@@ -262,11 +262,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 35adbf4b3e0477847be3efb3b8327c01, type: 3}
-    m_FontSize: 50
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 0
-    m_MaxSize: 50
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -281,7 +281,13 @@ MonoBehaviour:
     location to reveal info about each part of the house.
 
 
-    Enjoy the tour!'
+    To move around just
+    simply left click on the green boxes spread around the cabin and if you want
+    to open or close the info arrows you left click on them as well.
+
+
+    Enjoy
+    the tour!'
 --- !u!222 &15395677
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -523,7 +529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &81091584
@@ -1442,7 +1448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &140649010
@@ -1663,7 +1669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &218609885
@@ -6071,7 +6077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &794246942
@@ -8101,7 +8107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &877456613
@@ -36227,7 +36233,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.00012207031, y: 0}
+  m_AnchoredPosition: {x: -0.00024414062, y: 0}
   m_SizeDelta: {x: 1000, y: 50}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1920828560
@@ -38212,7 +38218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f088ba225fb5e41a92bd4132c8979e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: dd88128a44daaac45a6a3d11d8783d6c, type: 3}
+  icon: {fileID: 21300000, guid: b4eabc0ca34e3014da9b7af63034fa3e, type: 3}
   background: {fileID: 21300000, guid: 4a39236f563a61a498ee0fec67c9cab2, type: 3}
   interactClip: {fileID: 8300000, guid: 61894e5c6cd0a3648b6d3d039bebf38d, type: 3}
 --- !u!114 &2100753368
@@ -38412,7 +38418,7 @@ Transform:
   m_GameObject: {fileID: 2117195673}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -261.558, y: 151.425, z: -231.574}
+  m_LocalPosition: {x: -261.803, y: 151.425, z: -231.574}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children:

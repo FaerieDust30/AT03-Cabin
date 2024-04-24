@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\movementbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|c:\\users\\spuzn\\desktop\\tafe\\unity\\at03 github\\at03-cabin\\at03-cabin\\assets\\scripts\\movementbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\locationmovementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationmovementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|c:\\users\\spuzn\\desktop\\tafe\\unity\\at03 github\\at03-cabin\\at03-cabin\\assets\\scripts\\introtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\introtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\locationmovementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationmovementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CEB9E9A-F612-0C14-97B5-2D127AB426FD}|Assembly-CSharp.csproj|C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IntroText.cs",
               "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\IntroText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IntroText.cs",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Assets\\Scripts\\IntroText.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:04:07.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T08:04:07.105Z"
             },
             {
               "$type": "Document",
@@ -61,14 +60,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovementButton.cs",
               "ToolTip": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\MovementButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovementButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T06:14:17.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LocationMovementMenu.cs",
               "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\LocationMovementMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LocationMovementMenu.cs",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\LocationMovementMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T04:55:25.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T04:55:25.278Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DigitalTooltip.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T08:05:10.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T08:05:10.956Z"
             },
             {
               "$type": "Document",
@@ -102,12 +99,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T06:42:34.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:42:34.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NavigationWaypoint.cs",
               "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\NavigationWaypoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NavigationWaypoint.cs",
@@ -115,12 +111,11 @@
               "RelativeToolTip": "Assets\\Scripts\\NavigationWaypoint.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T06:29:06.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:29:06.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Interaction.cs",
               "DocumentMoniker": "C:\\Users\\spuzn\\Desktop\\TAFE\\Unity\\AT03 GitHub\\AT03-Cabin\\AT03-Cabin\\Assets\\Scripts\\Interaction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction.cs",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interaction.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAkwA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T06:23:58.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:23:58.132Z"
             }
           ]
         }
